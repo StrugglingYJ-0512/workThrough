@@ -2,7 +2,10 @@
    controllerName="sap.ui.demo.walkthrough.controller.App"
    xmlns="sap.m"
    xmlns:mvc="sap.ui.core.mvc">
+   <!-- controllerName = "sap.ui.demo.walkthrough"는 bootstrap의 root이다.
+      "controller"는 root의 sub folder이다. "App"는 App.controller.js 라는 [postfix]가 적용됨. -->
    <Button
       text="Say Hello"
       press=".onShowHello"/>
+      <!-- press는 Event 인데, ".onShowHello"를 통해 [.]을 통해 function임을 알려 준다.  -->
 </mvc:View>
