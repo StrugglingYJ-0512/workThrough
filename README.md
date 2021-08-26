@@ -1,8 +1,34 @@
-# workThrough
-https://openui5.hana.ondemand.com/topic/3da5f4be63264db99f2e5b04c5e853db
-SAP_workthrough_01cycle
-01cycle의 목표 :  구동시켜보면서 흐름 파악. 
-02cycle로 전 step : 흐름 이해, 흐름 파악
+## Application Details
+|               |
+| ------------- |
+|**Generation Date and Time**<br>Mon Aug 23 2021 18:59:36 GMT+0900 (대한민국 표준시)|
+|**App Generator**<br>@sap/generator-fiori|
+|**App Generator Version**<br>1.3.1|
+|**Generation Platform**<br>Visual Studio Code|
+|**Floorplan Used**<br>simple|
+|**Service Type**<br>None|
+|**Service URL**<br>N/A
+|**Module Name**<br>walkthrough|
+|**Application Title**<br>Walkthrough|
+|**Namespace**<br>sap.ui.demo|
+|**UI5 Theme**<br>sap_fiori_3|
+|**UI5 Version**<br>Latest|
+|**Enable Telemetry**<br>True|
 
+## walkthrough
+
+Walkthrough
+
+### Starting the generated app
+
+-   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  In order to launch the generated app, simply run the following from the generated app root folder:
+
+```
+    npm start
+```
+
+#### Pre-requisites:
+
+1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
